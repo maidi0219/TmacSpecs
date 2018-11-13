@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TmacSpecsLib_Tests' do
+  pod 'TmacSpecsLib', :path => '../'
+  
+  
+end
