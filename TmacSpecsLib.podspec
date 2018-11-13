@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TmacSpecsLib'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TmacSpecsLib.'
+  s.summary          = 'TmacSpecsLib地描述啦啦啦啦'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/784920085@qq.com/TmacSpecsLib'
+  s.homepage         = 'https://www.baidu.com'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '784920085@qq.com' => 'jacy_li@kingdee.com' }

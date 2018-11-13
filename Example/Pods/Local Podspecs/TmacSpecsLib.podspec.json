@@ -1,0 +1,22 @@
+{
+  "name": "TmacSpecsLib",
+  "version": "0.1.0",
+  "summary": "A short description of TmacSpecsLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/784920085@qq.com/TmacSpecsLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "784920085@qq.com": "jacy_li@kingdee.com"
+  },
+  "source": {
+    "git": "https://github.com/784920085@qq.com/TmacSpecsLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TmacSpecsLib/Classes/**/*"
+}

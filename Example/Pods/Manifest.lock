@@ -1,0 +1,16 @@
+PODS:
+  - TmacSpecsLib (0.1.0)
+
+DEPENDENCIES:
+  - TmacSpecsLib (from `../`)
+
+EXTERNAL SOURCES:
+  TmacSpecsLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TmacSpecsLib: 865b0df33e40dfaecbccc05bcc8e5d162d79f462
+
+PODFILE CHECKSUM: fe0a52280316da3c07d0ed0af806f18a4046593b
+
+COCOAPODS: 1.5.3

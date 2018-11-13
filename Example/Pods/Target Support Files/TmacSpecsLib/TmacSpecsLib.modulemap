@@ -1,0 +1,6 @@
+framework module TmacSpecsLib {
+  umbrella header "TmacSpecsLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
